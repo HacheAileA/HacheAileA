@@ -37,12 +37,12 @@
 
 ## Mes projets
 - [DirSim](https://github.com/HacheAileA/DirSim) - Projet universitaire L2 Informatique 2025-2026 (**C, MakeFile**)
-- [Worms-Like](https://github.com/HacheAileA/Worms-HVRSS) - Projet universitaire L2 Informatique 2025-2026 (**Java17, Gradle**)
-- [Football-ManaJer](https://github.com/HacheAileA/Football-Mana-J-er-HRS) - Projet universitaire L2 Informatique 2025-2026 (**Java17, Maven, JSON, Supabase, PostgreSQL**)
-- Colony Flow (en cours) - Projet universitaire L3 Informatique 2026-2027 (**Java25, Maven, JSON**)
+- [Worms-Like](https://github.com/HacheAileA/Worms-HVRSS) - Projet universitaire L2 Informatique 2025-2026 (**Java17, Gradle, Swing/AWT**)
+- [Football-ManaJer](https://github.com/HacheAileA/Football-Mana-J-er-HRS) - Projet universitaire L2 Informatique 2025-2026 (**Java17, Maven, JSON, Supabase, PostgreSQL, Swing/AWT**)
+- [Colony Flow](https://github.com/HacheAileA/Colony-Flow) (en cours) - Projet universitaire L3 Informatique 2026-2027 (**Java25, Maven, JavaFX, JSON**)
 
 ---
-- [PitBoard](https://github.com/HacheAileA/PitBoard) - Application de visualisation des classements des sports mécaniques, ainsi que les stats des pilotes (**React Native, TypeScript, TSX, JSON, API, PostgreSQL, Supabase**)
+- [PitBoard](https://github.com/HacheAileA/PitBoard) - Application de visualisation des classements des sports mécaniques, stats des pilotes et infos sur les circuits (**React Native, TypeScript, TSX, JSON, API, PostgreSQL, Supabase**)
 
 ---
 
