@@ -36,13 +36,30 @@
 ---
 
 ## Mes projets
-- [DirSim](https://github.com/HacheAileA/DirSim) - Projet universitaire L2 Informatique 2025-2026 (**C, MakeFile**)
-- [Worms-Like](https://github.com/HacheAileA/Worms-HVRSS) - Projet universitaire L2 Informatique 2025-2026 (**Java17, Gradle, Swing/AWT**)
-- [Football-ManaJer](https://github.com/HacheAileA/Football-Mana-J-er-HRS) - Projet universitaire L2 Informatique 2025-2026 (**Java17, Maven, JSON, Supabase, PostgreSQL, Swing/AWT**)
-- [Colony Flow](https://github.com/HacheAileA/Colony-Flow) (en cours) - Projet universitaire L3 Informatique 2026-2027 (**Java25, Maven, JavaFX, JSON**)
+- [Worms-Like](https://github.com/HacheAileA/Worms-HVRSS) -
+	*Projet universitaire L2 Informatique 2025-2026*.
+	Jeu d'affrontement d'équipes de vers sur un terrain 2D destructible au tour par tour avec un arsenal, physique simple et collisions.
+	(**Java17, Gradle, Swing/AWT**)
+
+- [DirSim](https://github.com/HacheAileA/DirSim) -
+	*Projet universitaire L2 Informatique 2025-2026*.
+	Simulation des instructions systèmes de manipulation de l'arborescence des dossiers et fichiers.
+	(**C, MakeFile**)
+
+- [Football-ManaJer](https://github.com/HacheAileA/Football-Mana-J-er-HRS) -
+	*Projet universitaire L2 Informatique 2025-2026*.
+	Jeu de simulation de gestion d'une équipe de football, des finances, organisation de matchs et mise en place de stratégie de développement des joueurs.
+	(**Java17, Maven, JSON, Supabase, PostgreSQL, Swing/AWT**)
+
+- [Colony Flow](https://github.com/HacheAileA/Colony-Flow) (en cours) -
+	*Projet universitaire L3 Informatique 2026-2027*.
+	Jeu de réflexion en 2D de type Colony Flow, choix de colonnes et envoi d'insectes mangeurs de pixels.
+	(**Java25, Maven, JavaFX, JSON**)
 
 ---
-- [PitBoard](https://github.com/HacheAileA/PitBoard) - Application de visualisation des classements des sports mécaniques, stats des pilotes et infos sur les circuits (**React Native, TypeScript, TSX, JSON, API, PostgreSQL, Supabase**)
+- [PitBoard](https://github.com/HacheAileA/PitBoard) -
+	Application de visualisation des classements des sports mécaniques, stats des pilotes et infos sur les circuits.
+	(**React Native, TypeScript, TSX, JSON, API, PostgreSQL, Supabase**)
 
 ---
 
